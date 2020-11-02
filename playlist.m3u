@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:0,Peace Tv
+http://11.11.11.11:8080/PEACETV/index.m3u8
+#EXTINF:0,ATN BANGLA
+http://11.11.11.11:8080/ATNBANGLA/index.m3u8
+#EXTINF:0,Channel i
+http://11.11.11.11:8080/CHANNEL-I/index.m3u8
+#EXTINF:0,Banglavision
+http://11.11.11.11:8080/BANGLAVSION/index.m3u8
+#EXTINF:0,Massranga Tv
+http://11.11.11.11:8080/MASRANGA/index.m3u8
+#EXTINF:0,Channel 9
+http://11.11.11.11:8080/CHANNL9/index.m3u8
+#EXTINF:0,News 24 BD
+http://11.11.11.11:8080/NEWS24/index.m3u8
+#EXTINF:0,Channel 24
+http://11.11.11.11:8080/CHANNEL24/index.m3u8
+#EXTINF:0,DBC NEWS
+http://11.11.11.11:8080/DBC/index.m3u8
+#EXTINF:0,Ekushe Tv
+http://11.11.11.11:8080/DURONTOTV/index.m3u8
+#EXTINF:0,SA Tv
+http://11.11.11.11:8080/SATV/index.m3u8
+#EXTINF:0,Gazi Tv
+http://11.11.11.11:8080/GAZITV/index.m3u8
+#EXTINF:0,Star Jalsha HD
+http://11.11.11.11:8080/STARJALSHAHD/index.m3u8
+#EXTINF:0,Zee Bangla HD
+http://11.11.11.11:8080/ZEEBANGLA/index.m3u8
+#EXTINF:0,Descovery science
+http://11.11.11.11:8080/DISCOVERYSCIENCE/index.m3u8
+#EXTINF:0,NETGEO
+http://11.11.11.11:8080/NETGEO/index.m3u8
+#EXTINF:0,Animal planet
+http://11.11.11.11:8080/ANIMALPLANNET/index.m3u8
+#EXTINF:0,Sony Ten2
+http://11.11.11.11:8080/SONYTEN2/index.m3u8
+#EXTINF:0,Starsports select2
+http://11.11.11.11:8080/STARSPORTSSELECT2/index.m3u8
+#EXTINF:0,Colors Hd
+http://11.11.11.11:8080/SONYSIX/index.m3u8
+#EXTINF:0,Red Bull tv
+http://11.11.11.11:8080/REDBULTV/index.m3u8
+#EXTINF:0,Dubai Racing
+http://11.11.11.11:8080/DUBAIRACING/index.m3u8
+#EXTINF:0,Star sports select 1
+http://11.11.11.11:8080/STARSPORTSSELECT1/index.m3u8
+#EXTINF:0,Sony Hd
+http://11.11.11.11:8080/sony_hd/index.m3u8
+#EXTINF:0,Zee cenema
+http://11.11.11.11:8080/ZEECENEMA/index.m3u8
+#EXTINF:0,Sony max
+http://11.11.11.11:8080/SONYMAX/index.m3u8
