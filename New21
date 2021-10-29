@@ -1,3 +1,7 @@
+#EXTINF:-1 ,T SPORTS
+http://103.70.140.27:8080/hls/tsports.m3u8
+#EXTINF:-1 , T SPORTS 2
+http://cdn.ihub.live:8082/j-TSports/tracks-v1a1/mono.m3u8?token=37e37961050e908d7f1ce7b7dd6edc4c1147f487-cc845511785665d87bc31fa75651b6ed-1635504447-1635493647&join-AllLiveSportsLinks=
 #EXTINF:-1 ,Ananda tv (BDIX)
 http://bdixtv.live:8080/anandotv/tracks-v1a1/mono.m3u8?token=ca0a8362dd3233fff163b19351a65a55c1fe02b5-35463837b290a20ed2a05ca91dd7bc12-1635447889-1635437089
 #EXTINF:-1 ,MY TV(BDIX)
